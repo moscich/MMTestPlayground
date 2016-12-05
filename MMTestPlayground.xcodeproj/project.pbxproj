@@ -52,7 +52,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		7922AE751DAC229C00EA9FCC /* ViewController.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ViewController.playground; sourceTree = "<group>"; };
 		79A255281DABB339001B1181 /* MMTestPlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MMTestPlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79A2552B1DABB339001B1181 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79A2552D1DABB339001B1181 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,7 +62,6 @@
 		79A255421DABB386001B1181 /* UI_Framework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UI_Framework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		79A255441DABB386001B1181 /* UI_Framework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UI_Framework.h; sourceTree = "<group>"; };
 		79A255461DABB386001B1181 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
-		79A2554F1DABB392001B1181 /* UnitTests.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = UnitTests.playground; sourceTree = "<group>"; };
 		79A255521DABB4EC001B1181 /* MMTestRunner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMTestRunner.h; sourceTree = "<group>"; };
 		79A255531DABB4EC001B1181 /* MMTestRunner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMTestRunner.m; sourceTree = "<group>"; };
 		79A255541DABB4EC001B1181 /* MMViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MMViewController.xib; sourceTree = "<group>"; };
@@ -98,8 +96,6 @@
 		79A2551F1DABB339001B1181 = {
 			isa = PBXGroup;
 			children = (
-				7922AE751DAC229C00EA9FCC /* ViewController.playground */,
-				79A2554F1DABB392001B1181 /* UnitTests.playground */,
 				79A2552A1DABB339001B1181 /* FrameworkPlaygrounds */,
 				79A255431DABB386001B1181 /* UI_Framework */,
 				79A255291DABB339001B1181 /* Products */,
@@ -211,7 +207,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = RBC;
+				ORGANIZATIONNAME = "Marek Mościchowski";
 				TargetAttributes = {
 					79A255271DABB339001B1181 = {
 						CreatedOnToolsVersion = 7.3.1;

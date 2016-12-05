@@ -3,7 +3,7 @@
 //  Bazinga
 //
 //  Created by Marek Mościchowski on 10/10/16.
-//  Copyright © 2016 RBC. All rights reserved.
+//  Copyright © 2016 Marek Mościchowski. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

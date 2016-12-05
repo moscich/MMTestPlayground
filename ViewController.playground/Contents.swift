@@ -6,12 +6,12 @@ import UI_Framework
 
 class MockVM : NSObject,  MMViewModel {
     @objc func string() -> String {
-        return "Hello Code Europe"
+        return "Code Europe"
     }
 }
 
 let vc = MMViewController(VM: MockVM())
-
+ 
 XCPlaygroundPage.currentPage.needsIndefiniteExecution = true
 
 XCPlaygroundPage.currentPage.liveView = vc.view
